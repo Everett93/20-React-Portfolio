@@ -63,7 +63,7 @@ export default class Projects extends Component {
                                 <div className="project" style={{ backgroundImage: `url(${PasswordGenerator})` }}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="https://github.com/cml2377/dev-profile-generator">Password Generator</a></h3>
+                                            <h3><a href="">Password Generator</a></h3>
                                            
                                         </div>
                                     </div>
@@ -74,7 +74,7 @@ export default class Projects extends Component {
                                 <div className="project" style={{ backgroundImage: `url(${WeatherDashboard})` }}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="https://github.com/cml2377/Note-Taker">Weather Dashboard</a></h3>
+                                            <h3><a href="">Weather Dashboard</a></h3>
                                            
                                         </div>
                                     </div>
@@ -84,7 +84,7 @@ export default class Projects extends Component {
                                 <div className="project" style={{ backgroundImage: `url(${WorkDayScheduler})` }}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="https://github.com/cml2377/Superb-Pass-Gen">Work Day Scheduler</a></h3>
+                                            <h3><a href="">Work Day Scheduler</a></h3>
                                             
                                         </div>
                                     </div>
@@ -94,7 +94,7 @@ export default class Projects extends Component {
                         </div>
                         <div className="row">
                             <div className="col-md-12 animate-box">
-                                <p><a href="https://github.com/cml2377" className="btn btn-primary btn-lg btn-load-more">See More <i className="icon-reload" /></a></p>
+                                <p><a href="" className="btn btn-primary btn-lg btn-load-more">See More <i className="icon-reload" /></a></p>
                             </div>
                         </div>
                     </div>
