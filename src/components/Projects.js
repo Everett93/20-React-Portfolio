@@ -26,7 +26,7 @@ export default class Projects extends Component {
                                 <div className="project" style={{ backgroundImage: `url(${Brewquery})` }}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="">Gif-Lash</a></h3>                                     
+                                            <h3><a href="https://github.com/TheFarrier/Gif-Lash">Gif-Lash</a></h3>                                     
                                         </div>
                                     </div>
                                 </div>
@@ -35,7 +35,7 @@ export default class Projects extends Component {
                                 <div className="project" style={{ backgroundImage: `url(${CodeQuiz})` }}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="">FoodTruck</a></h3>
+                                            <h3><a href="https://everett93.github.io/foodTruckLocate/">FoodTruck</a></h3>
                                             
                                         </div>
                                     </div>
@@ -84,7 +84,7 @@ export default class Projects extends Component {
                                 <div className="project" style={{ backgroundImage: `url(${WorkDayScheduler})` }}>
                                     <div className="desc">
                                         <div className="con">
-                                            <h3><a href="">Work Day Scheduler</a></h3>
+                                            <h3><a href="https://everett93.github.io/workSchedule/">Work Day Scheduler</a></h3>
                                             
                                         </div>
                                     </div>
