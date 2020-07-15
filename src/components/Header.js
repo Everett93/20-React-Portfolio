@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import BG1 from "../components/images/colorful.jpg";
-import BG2 from "../components/images/resume.pdf";
-
+import { Document } from 'react-pdf'
 
 
 export default class Header extends Component {
@@ -19,7 +18,7 @@ export default class Header extends Component {
                                             <div className="slider-text-inner js-fullheight">
                                                 <div className="desc">
                                                     <h1>Hi! <br />My name is Everett</h1>
-                                                    <p><a className="btn btn-primary btn-learn" href="`${BG2}`" target="_blank" rel="noopener noreferrer">View Resume<i className="icon-download4" /></a></p>
+                                                    <p><a className="btn btn-primary btn-learn" >View Resume<Document file="../components/images/resume.jpg" /></a></p>
                                                 </div>
                                             </div>
                                         </div>
